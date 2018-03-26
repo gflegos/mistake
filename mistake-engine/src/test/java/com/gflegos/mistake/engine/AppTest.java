@@ -1,4 +1,4 @@
-package com.gflegos.mistake;
+package com.gflegos.mistake.engine;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

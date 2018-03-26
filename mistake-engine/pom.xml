@@ -27,7 +27,7 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.gflegos.mistake.Engine</mainClass>
+              <mainClass>com.gflegos.mistake.engine.Engine</mainClass>
             </manifest>
           </archive>
         </configuration>
@@ -44,7 +44,7 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.gflegos.mistake.Engine</mainClass>
+              <mainClass>com.gflegos.mistake.engine.Engine</mainClass>
             </manifest>
           </archive>
         </configuration>
